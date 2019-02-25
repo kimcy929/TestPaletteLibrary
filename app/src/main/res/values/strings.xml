@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Palette Library</string>
+    <string name="get_color">Get color</string>
+</resources>

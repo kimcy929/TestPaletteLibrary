@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="color_array">
+        <item>@color/pink_A400</item>
+        <item>@color/amber_200</item>
+        <item>@color/red_400</item>
+        <item>@color/deep_purple_200</item>
+        <item>@color/yellow_600</item>
+        <item>@color/blue_900</item>
+        <item>@color/indigo_A400</item>
+        <item>@color/cyan_500</item>
+        <item>@color/light_green_500</item>
+        <item>@color/purple_A200</item>
+    </integer-array>
+</resources>

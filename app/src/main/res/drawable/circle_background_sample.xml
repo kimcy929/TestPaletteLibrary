@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- layer 0 -->
+    <item android:id="@+id/strokeLayer">
+        <shape android:shape="oval">
+            <stroke android:width="8dp"
+                    android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
+
+    <!-- layer 1 -->
+    <item android:id="@+id/solidLayer"
+          android:left="16dp"
+          android:top="16dp"
+          android:right="16dp"
+          android:bottom="16dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
+
+</layer-list>
